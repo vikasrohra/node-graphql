@@ -69,4 +69,5 @@
 
 ### UNDERSTANDING THE SETUP & WRITING OUR FIRST QUERY
 
-- 
+- Install a package, `npm install --save graphql`
+- Install a package, `npm install --save express-graphql`
